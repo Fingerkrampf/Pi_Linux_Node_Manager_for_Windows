@@ -63,18 +63,21 @@ If you have Python installed and prefer to run the script directly:
 
 1.  **Clone the Repository:**
     Open a command prompt or terminal and run the following Git command to download the source code.
-    ```git clone [https://github.com/Fingerkrampf/Pi_Linux_Node_Manager_for_Windows.git](https://github.com/Fingerkrampf/Pi_Linux_Node_Manager_for_Windows.git)
+    ```sh
+    git clone https://github.com/Fingerkrampf/Pi_Linux_Node_Manager_for_Windows.git
     cd Pi_Linux_Node_Manager_for_Windows
     ```
 
 2.  **Install Dependencies:**
     The application requires two main libraries: `customtkinter` for the UI and `paramiko` for the SSH connection. Install them using pip.
-    ```pip install customtkinter paramiko
+    ```sh
+    pip install customtkinter paramiko
     ```
 
 3.  **Run the Script:**
     Once the dependencies are installed, you can start the application by running the Python script.
-    ```python Pi_Linux_Node_Manager_for_Windows.py
+    ```sh
+    python Pi_Linux_Node_Manager_for_Windows.py
     ```
 
 ---
@@ -174,7 +177,7 @@ Wenn Sie Python installiert haben und das Skript lieber direkt ausführen möcht
 1.  **Klonen Sie das Repository:**
     Öffnen Sie eine Kommandozeile oder ein Terminal und führen Sie den folgenden Git-Befehl aus, um den Quellcode herunterzuladen.
     ```sh
-    git clone [https://github.com/Fingerkrampf/Pi_Linux_Node_Manager_for_Windows.git](https://github.com/Fingerkrampf/Pi_Linux_Node_Manager_for_Windows.git)
+    git clone https://github.com/Fingerkrampf/Pi_Linux_Node_Manager_for_Windows.git
     cd Pi_Linux_Node_Manager_for_Windows
     ```
 
