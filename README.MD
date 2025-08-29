@@ -79,7 +79,7 @@ If you have Python installed and prefer to run the script directly:
 3.  **Run the Script:**
     Once the dependencies are installed, you can start the application by running the Python script.
     ```sh
-    python Pi_Linux_Node_Manager_for_Windows.py
+    python Pi_Linux_Node_Manager_for_Window_v101.py
     ```
 
 ---
@@ -191,7 +191,7 @@ Wenn Sie Python installiert haben und das Skript lieber direkt ausführen möcht
 3.  **Führen Sie das Skript aus:**
     Sobald die Abhängigkeiten installiert sind, können Sie die Anwendung starten, indem Sie das Python-Skript ausführen.
     ```sh
-    python Pi_Linux_Node_Manager_for_Windows.py
+    python Pi_Linux_Node_Manager_for_Window_v101.py
     ```
 
 ---
