@@ -71,7 +71,7 @@ If you have Python installed and prefer to run the script directly:
 2.  **Install Dependencies:**
     The application requires two main libraries: `customtkinter` for the UI and `paramiko` for the SSH connection. Install them using pip.
     ```sh
-    pip install customtkinter paramiko
+    pip install customtkinter paramiko json threading time os sys
     ```
 
 3.  **Run the Script:**
@@ -184,7 +184,7 @@ Wenn Sie Python installiert haben und das Skript lieber direkt ausführen möcht
 2.  **Installieren Sie die Abhängigkeiten:**
     Die Anwendung benötigt zwei Hauptbibliotheken: `customtkinter` für die Benutzeroberfläche und `paramiko` für die SSH-Verbindung. Installieren Sie diese mit pip.
     ```sh
-    pip install customtkinter paramiko
+    pip install customtkinter paramiko json threading time os sys
     ```
 
 3.  **Führen Sie das Skript aus:**
