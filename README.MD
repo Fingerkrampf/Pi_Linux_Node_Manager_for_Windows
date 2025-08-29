@@ -1,4 +1,6 @@
-[ENGLISH]
+<details>
+<summary><strong>English Version</strong> (Click to expand)</summary>
+<br>
 
 # Pi Linux Node Manager for Windows
 
@@ -106,12 +108,11 @@ This project is licensed under the **GNU General Public License v3.0**. See the 
 
 * **Author:** Fingerkrampf
 * **Contact & Support:** Join the German Pi Network community on Telegram: [t.me/PiNetzwerkDeutschland](https://t.me/PiNetzwerkDeutschland)
+</details>
 
----
----
----
-
-[GERMAN]
+<details>
+<summary><strong>Deutsche Version</strong> (Klicken zum Ausklappen)</summary>
+<br>
 
 # Pi Linux Node Manager für Windows
 
@@ -212,8 +213,7 @@ Dieses Programm ist freie Software und wird in der Hoffnung verbreitet, dass es 
 ## 📄 Lizenz
 
 Dieses Projekt ist unter der **GNU General Public License v3.0** lizenziert. Weitere Details finden Sie in der `LICENSE`-Datei.
-
----
+</details>
 
 ## 👤 Autor & Kontakt
 
