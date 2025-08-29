@@ -213,9 +213,11 @@ Dieses Programm ist freie Software und wird in der Hoffnung verbreitet, dass es 
 ## 📄 Lizenz
 
 Dieses Projekt ist unter der **GNU General Public License v3.0** lizenziert. Weitere Details finden Sie in der `LICENSE`-Datei.
-</details>
+
+---
 
 ## 👤 Autor & Kontakt
 
 * **Autor:** Fingerkrampf
 * **Kontakt & Support:** Treten Sie der deutschen Pi-Netzwerk-Community auf Telegram bei: [t.me/PiNetzwerkDeutschland](https://t.me/PiNetzwerkDeutschland)
+</details>
