@@ -1,3 +1,6 @@
+![Screenshot](screenshot/Screenshot%202025-08-30%20113859.png)
+
+
 <details>
 <summary><strong>English Version</strong> (Click to expand)</summary>
 <br>
