@@ -1,4 +1,4 @@
-![Screenshot](screenshot/Screenshot%202025-08-30%20113859.png)
+![Screenshot](screenshot/Screenshot.png)
 
 
 <details>
