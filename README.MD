@@ -27,16 +27,6 @@ This tool simplifies common tasks like installation, upgrades, status monitoring
 
 ---
 
-## 🔧 How It Works
-
-The application uses the **Paramiko** library in Python to establish a secure SSH connection to your Linux server. Once connected, it executes predefined shell scripts to perform the various management tasks.
-
-* **Installation**: The script follows the official Pi Network procedure by adding the `apt` repository, installing the `pi-node` package, and then initializing it.
-* **Upgrade**: The script intelligently finds your existing node directory, extracts important configuration details (like your `NODE_SEED`), backs up the data, and re-initializes the node with the latest version.
-* **Status Checks**: It regularly runs `pi-node status` and `pi-node --version` to keep the UI updated with the latest information.
-
----
-
 ## 📋 Prerequisites
 
 ### On your Windows PC:
@@ -136,16 +126,6 @@ Dieses Tool vereinfacht gängige Aufgaben wie die Installation, Upgrades, Status
 * **⬆️ Ein-Klick-Upgrade**: Aktualisiert Ihren bereits bestehenden Node sicher, indem Konfigurationen gesichert und die neue `pi-node` Befehlszeilenschnittstelle (CLI) verwendet wird.
 * **⚙️ Auto-Update-Steuerung**: Aktivieren, deaktivieren oder planen Sie ganz einfach tägliche automatische Updates für Ihren Pi Node über Cron-Jobs.
 * **🖥️ Server-Neustart**: Eine praktische Schaltfläche, um Ihren Server direkt aus der Anwendung neu zu starten.
-
----
-
-## 🔧 Wie es funktioniert
-
-Die Anwendung verwendet die **Paramiko**-Bibliothek in Python, um eine sichere SSH-Verbindung zu Ihrem Linux-Server herzustellen. Nach der Verbindung führt sie vordefinierte Shell-Skripte aus, um die verschiedenen Verwaltungsaufgaben durchzuführen.
-
-* **Installation**: Das Skript folgt dem offiziellen Pi-Netzwerk-Verfahren, indem es das `apt`-Repository hinzufügt, das `pi-node`-Paket installiert und es anschließend initialisiert.
-* **Upgrade**: Das Skript findet intelligent Ihr vorhandenes Node-Verzeichnis, extrahiert wichtige Konfigurationsdetails (wie Ihren `NODE_SEED`), sichert die Daten und initialisiert den Node mit der neuesten Version neu.
-* **Statusprüfungen**: Es führt regelmäßig `pi-node status` und `pi-node --version` aus, um die Benutzeroberfläche mit den neuesten Informationen zu versorgen.
 
 ---
 
