@@ -79,6 +79,11 @@ If you have Python installed and prefer to run the script directly:
 
 ---
 
+### 📹 Youtube Howto Video:
+https://youtu.be/33ltH5KaADg?feature=shared
+
+---
+
 ## ⚙️ Configuration
 
 The application automatically creates a `config.json` file in the same directory. This file stores your last-used IP address, username, language preference, and auto-update time, so you don't have to re-enter them on every launch.
@@ -178,6 +183,11 @@ Wenn Sie Python installiert haben und das Skript lieber direkt ausführen möcht
     ```sh
     python Pi_Linux_Node_Manager_for_Window_v101.py
     ```
+
+---
+
+### 📹 Youtube Howto Video:
+https://youtu.be/YVXERVwJiTI?feature=shared
 
 ---
 
